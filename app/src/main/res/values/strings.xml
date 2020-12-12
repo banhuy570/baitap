@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Coffee House</string>
+    <string name="store">Store</string>
+    <string name="todo1">TODO</string>
+    <string name="nh_c_ang_ph_t_t_i_nh">Nhạc đang phát tại Nhà</string>
+    <string name="coffee_lover">#Coffee Lover</string>
+    <string name="tr_n_t_nh_b_n_d_i_t_nh_y_u">Trên tình bạn dưới tình yêu</string>
+    <string name="min">Min</string>
+    <string name="now_playing">Now playing</string>
+
+</resources>
